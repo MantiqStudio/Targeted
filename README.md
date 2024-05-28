@@ -1,7 +1,8 @@
 # Targeted 🎯
 ## Targeting and simulation system
 It is a system designed to know what the user relates to the user, or the user to the publication or product, or the publication or product to the other publication or the other product, through automatic emotional systems. This system depends on the large number of users and their interaction, as it is the one that decides the behaviors of everything.
-![sasa](https://github.com/MantiqStudio/Targeted/assets/167381007/ad3c38c4-54e8-46cb-90cd-846977e87f8b)
+![sdadsad](https://github.com/MantiqStudio/Targeted/assets/167381007/a2064566-8626-41b0-b6cf-235ae5984f33)
+
 
 # How to use 🪴
 In the first use namespace:
